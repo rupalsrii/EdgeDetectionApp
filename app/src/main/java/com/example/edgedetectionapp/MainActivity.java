@@ -1,4 +1,4 @@
-package com.example.edgeviewer;
+package com.example.edgedetectionapp;
 
 import android.Manifest;
 import android.graphics.ImageFormat;
@@ -25,7 +25,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.edgeviewer.gl.EdgeGLSurfaceView;
+import com.example.edgedetectionapp.gl.EdgeGLSurfaceView;
 import com.google.common.util.concurrent.ListenableFuture;
 
 import java.nio.ByteBuffer;

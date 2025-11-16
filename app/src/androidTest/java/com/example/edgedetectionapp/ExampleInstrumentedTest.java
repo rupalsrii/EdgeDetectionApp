@@ -1,4 +1,4 @@
-package com.example.edgeviewer;
+package com.example.edgedetectionapp;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.example.edgeviewer.gl;
+package com.example.edgedetectionapp.gl;
 
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;

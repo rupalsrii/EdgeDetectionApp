@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.edgeviewer"
+    namespace = "com.example.edgedetectionapp"
     compileSdk = 36
 
     externalNativeBuild {
