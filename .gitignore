@@ -1,0 +1,69 @@
+## IDE
+*.iml
+/.idea/
+.idea/*
+
+## Gradle
+/.gradle/
+**/build/
+/build/
+
+## Local configuration
+local.properties
+
+## Android Studio
+/captures/
+.externalNativeBuild/
+.cxx/
+.cmake/
+**/intermediates/
+**/generated/
+
+## Native / NDK
+**/obj/
+**/libs/
+
+## Artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+
+## Keystore
+*.jks
+debug.keystore
+keystore.jks
+
+## Logs
+*.log
+edgeviewer_log.txt
+filtered_log.txt
+
+## OS
+.DS_Store
+thumbs.db
+
+## Misc
+*.tmp
+*~
+
+## Node/web
+/web/node_modules/
+/web/dist/
+
+## Keep wrapper and props
+!gradlew
+!gradlew.bat
+!gradle-wrapper.properties
+!gradle.properties
+
+## Ignore build output from Android Studio
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+/.idea/shelf
+
+## Coverage / reports
+coverage/
+reports/
